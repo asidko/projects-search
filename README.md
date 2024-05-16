@@ -5,6 +5,8 @@ Overview:
 ---------
 A command-line tool to search and execute commands on git projects in a specified directory.
 
+![image](https://github.com/asidko/projects-search/assets/22843881/ee09896e-65f2-4131-9a49-ffafa7fee49d)
+
 Features:
 ---------
 - Real-time fuzzy search
